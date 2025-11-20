@@ -1,0 +1,13 @@
+transformers
+datasets
+torch
+accelerate
+evaluate
+sentencepiece
+pandas
+numpy
+tqdm
+fastapi
+uvicorn
+gradio
+pytest
